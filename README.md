@@ -1,2 +1,3 @@
-# dockerwordsmith
-An exercise on docker following Jpetazzo tutorial
+# [English](README.en.md)
+
+# [French](README.fr.md)
